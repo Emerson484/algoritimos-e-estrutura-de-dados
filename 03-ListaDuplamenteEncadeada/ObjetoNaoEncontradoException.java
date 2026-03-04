@@ -1,4 +1,4 @@
-package atv3ListaDuplamenteEncadeada;
+package atv2_listaDuplamenteEncadeada;
 
 public class ObjetoNaoEncontradoException extends Exception {
 	 public ObjetoNaoEncontradoException() {
