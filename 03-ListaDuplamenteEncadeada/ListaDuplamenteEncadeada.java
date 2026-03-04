@@ -1,7 +1,5 @@
 package atv2_listaDuplamenteEncadeada;
 
-import atv3ListaSimplesmenteEncadeadaGenerica.ObjetoNaoEncontradoException;
-
 public class ListaDuplamenteEncadeada <T>{
 	private Element head;
 	private Element tail;
