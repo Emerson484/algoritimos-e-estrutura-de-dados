@@ -9,7 +9,7 @@ Estruturas Não-Lineares: Árvores Binárias (BST), Árvores AVL e Árvores N-á
 
 Mapeamento de Dados: Implementação de Tabelas Hash.
 
-Aplicações Práticas e Algoritmos Específicos:Algoritmos para Transformação de Expressões Aritméticas (Aplicações práticas com Pilha),Simulação de Fila de Supermercado com controle de tempo de chegada (Aplicações práticas com Fila)
+Aplicações Práticas e Algoritmos Específicos: Algoritmos para Transformação de Expressões Aritméticas (Aplicações práticas com Pilha),Simulação de Fila de Supermercado com controle de tempo de chegada (Aplicações práticas com Fila)
 
 🎯 Destaques Técnicos e Engenharia de Soluções
 
