@@ -1,3 +1,11 @@
+/* 
+ * ATIVIDADE 6: Simulação de Fila de Supermercado (Disciplina FIFO).
+ * * Objetivo: Modelar o atendimento de um caixa único utilizando uma Fila Encadeada.
+ * O sistema gerencia eventos de chegada e tempo de serviço, calculando métricas de eficiência:
+ * - Tempo Médio de Espera dos clientes.
+ * - Taxa de Utilização do Caixa (tempo ocupado vs tempo total).
+ * - Tamanho Máximo da Fila observado durante a simulação.
+ */
 package atv8_filaMercado;
 
 import java.util.Scanner;
