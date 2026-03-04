@@ -1,0 +1,6 @@
+package atv8_filaMercado;
+
+
+public class ContainerVazioException extends Exception {
+
+}
