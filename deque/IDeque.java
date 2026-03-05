@@ -1,7 +1,7 @@
 package atv7_Deque;
 
-import atv6_filaComArray.ContainerCheioException;
-import atv6_filaComArray.ContainerVazioException;
+//import atv6_filaComArray.ContainerCheioException;
+//import atv6_filaComArray.ContainerVazioException;
 
 public interface IDeque <T>{
 	void fazVazia();
