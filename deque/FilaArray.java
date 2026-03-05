@@ -1,4 +1,4 @@
-package atv6_filaComArray;
+package atv7_Deque;
 
 public class FilaArray <T> implements IFila<T> {
 	protected T[] array;
