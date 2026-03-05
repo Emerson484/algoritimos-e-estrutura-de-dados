@@ -1,6 +1,6 @@
 package trabalhoShellSort;
 
-public class AlgoritmosDeOrdenacao {
+public class CompararAlgoritmosDeOrdenacao {
 
     /**
      * BUBBLE SORT 
