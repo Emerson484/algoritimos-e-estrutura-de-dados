@@ -1,7 +1,7 @@
 package atv_9ListaClassificada;
 
 
-public class TesteLista {
+public class TesteListaClassificada {
 
  public static void main(String[] args) {
      //  uma instância de lista para armazenar números inteiros
