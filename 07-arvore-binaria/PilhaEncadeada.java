@@ -1,4 +1,4 @@
-package atv11_ArvoreBinariaDeBusca;
+package atv11_ArvoreBinaria;
 
 public class PilhaEncadeada <T> implements IPilha <T> {
 	private ListaEncadeadaGenerica<T> lista;
