@@ -1,4 +1,4 @@
-package atv11_ArvoreBinariaDeBusca;
+package atv11_ArvoreBinaria;
 
 /**
  * ATIVIDADE VII: Árvore Binária (Estrutura Não-Linear).
